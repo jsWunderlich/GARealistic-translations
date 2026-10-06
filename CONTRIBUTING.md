@@ -25,6 +25,22 @@ Each line is `"key": "text"`:
 - Keep the file valid JSON: straight double quotes, a comma after every line except the last, `\"` for a quote inside text, `\n` for a line break.
 - Product names stay as they are: GARealistic, SimBrief, VATSIM, MSFS, FSEconomy, SayIntentions.
 
+### The key is an ID, not text - translate the sentence in `en.json`
+
+The part on the left of every line is only an ID the app uses to look the line up. Never translate it and never treat it as a title. Some keys are a shortened slug of the English sentence plus a hash, for example:
+
+```json
+"acsText.radiusAndBankAngleDon~14c30dc8": "",
+```
+
+`radiusAndBankAngleDon` is just the first words of the sentence, cut off. It is **not** a heading such as "Radius and Bank Angle". To see what the line says, search `en.json` for the same key - the full English sentence is stored there:
+
+```json
+"acsText.radiusAndBankAngleDon~14c30dc8": "Radius and bank angle don't matter - a wide shallow orbit scores the same as a tight steep one. Only how round the track is counts.",
+```
+
+Translate that whole sentence and put it between the quotes in your own file. Keep `en.json` open next to your file while you work.
+
 ### Keys that look like `checklistItems.parkingBrakeSet~c53efa00`
 
 Long lists of built-in text (checklist items) use keys derived from the English wording: `area.words~hash`. They are translated like any other line. If the English wording of such a line is later changed, its key changes too and the line appears again as empty in your file - your old translation no longer matches the new wording, so it is dropped on purpose.
