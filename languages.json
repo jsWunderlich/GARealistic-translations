@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
   "languages": [
     {
       "code": "en",
@@ -7,9 +7,24 @@
       "coverage": 1
     },
     {
+      "code": "de",
+      "name": "Deutsch",
+      "coverage": 1
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "coverage": 1
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "coverage": 1
+    },
+    {
       "code": "pt-BR",
       "name": "Português (Brasil)",
-      "coverage": 0
+      "coverage": 1
     }
   ]
 }
