@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-10",
   "languages": [
     {
       "code": "en",
@@ -9,22 +9,32 @@
     {
       "code": "de",
       "name": "Deutsch",
-      "coverage": 1
+      "coverage": 0.989
     },
     {
       "code": "es",
       "name": "Español",
-      "coverage": 1
+      "coverage": 0.989
     },
     {
       "code": "fr",
       "name": "Français",
+      "coverage": 0.989
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "coverage": 1
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands",
       "coverage": 1
     },
     {
       "code": "pt-BR",
       "name": "Português (Brasil)",
-      "coverage": 1
+      "coverage": 0.989
     }
   ]
 }
