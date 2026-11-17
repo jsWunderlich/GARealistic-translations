@@ -4132,6 +4132,7 @@
   "efb.tools.windFromMag": "Viento {0}, pista {1}",
   "efb.tools.notes": "Notas",
   "efb.tools.notesHint": "Frecuencias, autorizaciones, squawk...",
+  "efb.pax.linkLost": "ENLACE CON EL ESCRITORIO PERDIDO - ultimo estado de la cabina",
   "efbFeed.employerFlight": "VUELO DEL EMPLEADOR",
   "efbFeed.passengerFlight": "VUELO DE PASAJEROS",
   "efbFeed.cargoContract": "CONTRATO DE CARGA",

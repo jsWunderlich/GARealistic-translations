@@ -4132,6 +4132,7 @@
   "efb.tools.windFromMag": "Vento {0}, pista {1}",
   "efb.tools.notes": "Anotações",
   "efb.tools.notesHint": "Frequências, autorizações, squawk...",
+  "efb.pax.linkLost": "LIGACAO COM O DESKTOP PERDIDA - ultimo estado da cabine",
   "efbFeed.employerFlight": "VOO DO EMPREGADOR",
   "efbFeed.passengerFlight": "VOO DE PASSAGEIROS",
   "efbFeed.cargoContract": "CONTRATO DE CARGA",

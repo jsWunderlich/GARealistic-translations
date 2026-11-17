@@ -4132,6 +4132,7 @@
   "efb.tools.windFromMag": "Wind {0}, runway {1}",
   "efb.tools.notes": "Notes",
   "efb.tools.notesHint": "Frequencies, clearances, squawk...",
+  "efb.pax.linkLost": "DESKTOP LINK LOST - showing the last cabin state",
   "efbFeed.employerFlight": "EMPLOYER FLIGHT",
   "efbFeed.passengerFlight": "PASSENGER FLIGHT",
   "efbFeed.cargoContract": "CARGO CONTRACT",

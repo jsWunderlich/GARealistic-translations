@@ -4132,6 +4132,7 @@
   "efb.tools.windFromMag": "Wind {0}, baan {1}",
   "efb.tools.notes": "Notities",
   "efb.tools.notesHint": "Frequenties, toestemmingen, squawk...",
+  "efb.pax.linkLost": "VERBINDING MET DESKTOP VERLOREN - laatste cabinestatus",
   "efbFeed.employerFlight": "WERKGEVERSVLUCHT",
   "efbFeed.passengerFlight": "PASSAGIERSVLUCHT",
   "efbFeed.cargoContract": "CARGOCONTRACT",

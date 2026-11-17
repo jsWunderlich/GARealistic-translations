@@ -4132,6 +4132,7 @@
   "efb.tools.windFromMag": "Vent {0}, piste {1}",
   "efb.tools.notes": "Notes",
   "efb.tools.notesHint": "Fréquences, clairances, code transpondeur...",
+  "efb.pax.linkLost": "LIAISON AVEC LE BUREAU PERDUE - dernier etat de la cabine",
   "efbFeed.employerFlight": "VOL EMPLOYEUR",
   "efbFeed.passengerFlight": "VOL PASSAGERS",
   "efbFeed.cargoContract": "CONTRAT CARGO",
